@@ -33,7 +33,7 @@ blocks:
 
   - title: PlayFC Movies
     icon: url
-    url: t.me/playfc
+    url: https://t.me/playfc
 
   - title: WhatsApp
     icon: whatsapp
