@@ -4,7 +4,7 @@
 version: 0.3.5 # NO TOCAR
 
 #HODL username
-username: "dxmorgan" # < dxmorgan@hodl.ar
+username: "chelodxmg" # < chelodxmg@hodl.ar
 
 # NOSTR Settings
 # nostr: # Sin el # adelante
@@ -21,7 +21,7 @@ background_color: "#f9fafb"
   # cover_color: "#ff7070"
 
 # Configuración Central
-main: Hola
+main: 
 title: "@DxMorgan" # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
