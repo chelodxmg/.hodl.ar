@@ -21,7 +21,7 @@ background_color: "#f9fafb"
   # cover_color: "#ff7070"
 
 # Configuración Central
-# main:
+main: Hola
 title: "@DxMorgan" # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
