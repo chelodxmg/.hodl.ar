@@ -11,9 +11,9 @@ main:
 
 # Blocks list
 blocks:
-#  - title: Instagram
-#    icon: instagram
-#    url: https://instagram.lacrypta.com.ar
+  - title: Telegram 
+    icon: telegram
+    url: https://t.me/dxmorgan
 
 #  - title: Discord
 #    icon: discord
