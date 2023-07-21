@@ -1,52 +1,40 @@
-# ESTO ES UN COMENTARIO
-# Todo lo que está a la derecha de # es solo para nosotros
+# Config version
+version: 0.3.0
 
-version: 0.3.5 # NO TOCAR
-
-#HODL username
-username: "chelodxmg" # < chelodxmg@hodl.ar
-
-# NOSTR Settings
-# nostr: # Sin el # adelante
-#   npub: "TU_PUB" # Entre comillas dobles
-
-# Configuración Global
+# HTML Head settings
 html:
-# title: Este valor no funciona porque esta comentado
-title: Links | DxMorgan # Este es el Título que aparece en la pestaña de navegador
+  title: DxMorgan | Testeo
 
-# Colores de plantilla
-theme:
-background_color: "#f9fafb"
-  # cover_color: "#ff7070"
+# Main container settings
+main:
+  title: DxMorgan@hold.ar
 
-# Configuración Central
-main: 
-  title: "chelodxmg" # Aca podes poner tu nombre o el de tu producto
-
-# Lista de bloques
+# Blocks list
 blocks:
-  # Estos bloques los podes editar cambiando SOLO el texto que está en blanco
-  # Sacale 
-- title: Telegram
-icon: telegram
-url: https://t.me/DxMorgan
+#  - title: Instagram
+#    icon: instagram
+#    url: https://instagram.lacrypta.com.ar
 
-- title: Twitter
-icon: twitter
-url: https://twitter.com/chelodxmg
+#  - title: Discord
+#    icon: discord
+#    url: https://discord.lacrypta.com.ar
 
-- title: Github
-icon: github
-url: https://github.com/chelodxmg
-    
-# - title: LinkedIn # Este es el nombre del botón
-#   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
-#   url: https://linkedin.com/in/TU-USUARIO # Link a donde redireccionará al hacer click
+#  - title: Quiero participar!
+#    icon: voluntary
+#    url: https://docs.google.com/forms/d/e/1FAIpQLSfMM_fDXrBVlxujPy4yhYRuhHWrtPSvoD8QRCKuHzZXgsFFzg/viewform
 
-# - title: Sitio Web
-#   icon: url
-#   url: https://www.TU-WEB.com
+#  - title: Github
+#    icon: github
+#    url: https://github.lacrypta.com.ar
 
-# Guardá el archivo haciendo click en Commit Changes, abajo
-# Volvé a las instrucciones
+  - title: Twitter
+    icon: twitter
+    url: https://twitter.com/chelodxmg
+
+  - title: @PlayFC Movies
+    icon: url
+    url: t.me/playfc
+
+#  - title: WhatsApp
+#    icon: whatsapp
+#    url: https://api.whatsapp.com/send/?phone=%2B541131080456&text=Hola+como+estan&type=phone_number&app_absent=0
