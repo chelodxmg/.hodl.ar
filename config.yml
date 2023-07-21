@@ -28,15 +28,15 @@ main:
 blocks:
   # Estos bloques los podes editar cambiando SOLO el texto que está en blanco
   # Sacale 
-title: Telegram
+- title: Telegram
 icon: telegram
 url: https://t.me/DxMorgan
 
-title: Twitter
+- title: Twitter
 icon: twitter
 url: https://twitter.com/chelodxmg
 
-title: Github
+- title: Github
 icon: github
 url: https://github.com/chelodxmg
     
