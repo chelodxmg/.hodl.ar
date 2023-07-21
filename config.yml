@@ -1,57 +1,40 @@
-# ESTO ES UN COMENTARIO
-# Todo lo que está a la derecha de # es solo para nosotros
+# Config version
+version: 0.3.0
 
-version: 0.3.5 # NO TOCAR
-
-# HODL username
-# username: "USUARIO" # < TU_USUARIO@hodl.ar
-
-# NOSTR Settings
-# nostr: # Sin el # adelante
-#   npub: "TU_PUB" # Entre comillas dobles
-
-# Configuración Global
+# HTML Head settings
 html:
-# title: Este valor no funciona porque esta comentado
-  title: Links | Mi Nombre # Este es el Título que aparece en la pestaña de navegador
+  title: DxMorgan | Testeo
 
-# Colores de plantilla
-theme:
-  background_color: "#f9fafb"
-  # cover_color: "#ff7070"
-
-# Configuración Central
+# Main container settings
 main:
-  title: Mi Nombre # Aca podes poner tu nombre o el de tu producto
+  title: 🔪 Dexter Morgan 💉
 
-# Lista de bloques
+# Blocks list
 blocks:
-  # Estos bloques los podes editar cambiando SOLO el texto que está en blanco
-  # Sacale 
+  - title: Telegram 
+    icon: telegram
+    url: https://t.me/dxmorgan
 
-  - title: Instagram
-    icon: instagram
-    url: https://www.instagram.com/lacryptaok/
+#  - title: Discord
+#    icon: discord
+#    url: https://discord.lacrypta.com.ar
 
-# - title: Twitter
-#   icon: twitter
-#   url: https://twitter.com/TU-USUARIO
-    
-# - title: LinkedIn # Este es el nombre del botón
-#   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
-#   url: https://linkedin.com/in/TU-USUARIO # Link a donde redireccionará al hacer click
+#  - title: Quiero participar!
+#    icon: voluntary
+#    url: https://docs.google.com/forms/d/e/1FAIpQLSfMM_fDXrBVlxujPy4yhYRuhHWrtPSvoD8QRCKuHzZXgsFFzg/viewform
 
-# - title: Github
-#   icon: github
-#   url: https://github.com/TU-USUARIO
+  - title: Github
+    icon: github
+    url: https://github.com/chelodxmg/
 
-# - title: Sitio Web
-#   icon: url
-#   url: https://www.TU-WEB.com
+  - title: Twitter
+    icon: twitter
+    url: https://twitter.com/chelodxmg
 
-# - title: Telegram
-#   icon: telegram
-#   url: https://t.me/TU-USUARIO
-    
-# Guardá el archivo haciendo click en Commit Changes, abajo
-# Volvé a las instrucciones
+  - title: PlayFC Movies
+    icon: url
+    url: https://t.me/playfc
+
+  - title: WhatsApp
+    icon: whatsapp
+    url: https://api.whatsapp.com/send/?phone=%2B541128073054&text=Hola+que+tal&type=phone_number&app_absent=0
