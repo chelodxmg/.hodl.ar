@@ -38,3 +38,7 @@ blocks:
   - title: WhatsApp
     icon: whatsapp
     url: https://api.whatsapp.com/send/?phone=%2B541128073054&text=Hola+que+tal&type=phone_number&app_absent=0
+
+  - title: "Mejores Fraces"
+    icon: youtube
+    url: https://www.youtube.com/watch?v=F2ZqsqfgsEc
